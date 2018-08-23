@@ -1,2 +1,7 @@
 # Netflix-Youtube-Graph-Database
-A graph database that works sort of like a combination of YouTube and Netflix
+This is the feature branch here you can experiment with the graph database however you want.
+If you want to submit an update simply commit it.
+Thank you for showing some interest in the project.
+
+Sincerely,
+Nazarchamp
